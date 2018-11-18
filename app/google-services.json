@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "424051876024",
+    "firebase_url": "https://coolmessenger-1d8bc.firebaseio.com",
+    "project_id": "coolmessenger-1d8bc",
+    "storage_bucket": "coolmessenger-1d8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424051876024:android:e7bc357be4c9bc4a",
+        "android_client_info": {
+          "package_name": "com.example.mthompson.chattychitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424051876024-q7i3pe8c256nb44ojusvmc07fnmd0uve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mthompson.chattychitchat",
+            "certificate_hash": "78d248d4eb2dd691e3d9e38c8fca0a1165f20ac2"
+          }
+        },
+        {
+          "client_id": "424051876024-hofr7j4ma72a5dkeo5i46ql4mtn9r0gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNiRIr-ZWuREBnzxR8azwi0AjiboAa9EE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424051876024-hofr7j4ma72a5dkeo5i46ql4mtn9r0gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424051876024:android:e54a3c62b5b60430",
+        "android_client_info": {
+          "package_name": "com.example.mthompson.messengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424051876024-9adpe9g4uarqt02ha2863t8gd77migkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mthompson.messengerapp",
+            "certificate_hash": "78d248d4eb2dd691e3d9e38c8fca0a1165f20ac2"
+          }
+        },
+        {
+          "client_id": "424051876024-hofr7j4ma72a5dkeo5i46ql4mtn9r0gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNiRIr-ZWuREBnzxR8azwi0AjiboAa9EE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424051876024-hofr7j4ma72a5dkeo5i46ql4mtn9r0gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
